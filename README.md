@@ -1,5 +1,5 @@
 # YFChartView
-这是一款基于Core Graphics 和Core Animation 画出的轻量型网格曲线图。
+This resposity about the drawing is based on Core Graphics and Core Animation.
 
 ## 效果
 ![](/pics/model.png)    
