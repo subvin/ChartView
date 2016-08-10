@@ -2,7 +2,8 @@
 This resposity about the drawing is based on Core Graphics and Core Animation.
 
 ## 效果
-![](/pics/model.png)    
+<img src="./pics/model.png" width = "375" height = "667" alt="图片名称" align=center/>  
+
 
 #### 思路：
 1、先画网格，自定义一个View，重写drawRect:方法进行网格的绘制。    
