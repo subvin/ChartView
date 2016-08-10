@@ -1,4 +1,4 @@
-# YFChartView
+# ChartView
 This resposity about the drawing is based on Core Graphics and Core Animation.
 
 ## 效果
